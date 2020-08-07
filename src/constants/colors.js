@@ -1,0 +1,5 @@
+export const skyBlue = '#00BFFF'
+export const earthBrown = '#654321'
+export const fontPrimary = '#FFFAF0'
+export const red = '#FF6347'
+export const green = '#7FFF00'
